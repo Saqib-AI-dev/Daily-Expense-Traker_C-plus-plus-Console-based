@@ -1,1 +1,1 @@
-# Daily-Expense-Traker-C-Console-based
+# Daily-Expense-Traker-C++-Console-based
