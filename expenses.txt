@@ -1,0 +1,3 @@
+1 sunday 1 10000 food
+25 friday 8 500000 bike
+2 friday 4 30000 shopping
